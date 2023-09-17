@@ -1,1 +1,10 @@
 IMDB
+![Screenshot 2023-09-17 091652](https://github.com/saranedubridge/Mysql-Task1/assets/114648828/c0a7f4d4-2763-4767-a91b-1a321a64904e)
+![Screenshot 2023-09-17 092751](https://github.com/saranedubridge/Mysql-Task1/assets/114648828/216ffb7d-5c8a-48eb-b77a-0f7237d73610)
+![Screenshot 2023-09-17 095517](https://github.com/saranedubridge/Mysql-Task1/assets/114648828/3a38c42e-8522-418e-96fc-b9414fa7b153)
+![Screenshot 2023-09-17 093004](https://github.com/saranedubridge/Mysql-Task1/assets/114648828/f4f89768-d374-48cf-b7bf-40b7372e6cd0)
+![Screenshot 2023-09-17 093154](https://github.com/saranedubridge/Mysql-Task1/assets/114648828/54637072-5229-42ab-af15-983a727a03f0)
+![Screenshot 2023-09-17 093306](https://github.com/saranedubridge/Mysql-Task1/assets/114648828/8d39dfff-a9b5-43e6-b537-95515950f52c)
+![Screenshot 2023-09-17 094215](https://github.com/saranedubridge/Mysql-Task1/assets/114648828/7fdac146-ed52-470f-b040-9c915d2ef28d)
+![Screenshot 2023-09-17 094744](https://github.com/saranedubridge/Mysql-Task1/assets/114648828/e1c3e834-6600-4986-a153-c491b3aa8a9c)
+![Screenshot 2023-09-17 094811](https://github.com/saranedubridge/Mysql-Task1/assets/114648828/2252b0de-3281-4671-905b-55547768c05f)
